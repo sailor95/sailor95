@@ -1,4 +1,4 @@
-Hi, I'm Dave, a frontend developer & crypto player.
+Hi, I'm Dave, a frontend developer & crypto enthusiast.
 
 [My website](https://dave-huang.com/)
 
