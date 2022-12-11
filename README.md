@@ -2,6 +2,9 @@ Hi, I'm Dave, a frontend developer & crypto enthusiast.
 
 [My website](https://dave-huang.com/)
 
+Club member of [Alpha Shark](https://twitter.com/alphasharkclub?s=20&t=RNqdwOp7AwzdfyrMrGuNDA) & [Murmur Cats](https://opensea.io/collection/murmurcats).
+Former president pf [Neihu English Salon](https://www.facebook.com/neihutmc?mibextid=LQQJ4d)
+
 ## Toolkit
 
 <!-- Badge source: https://dev.to/envoy_/150-badges-for-github-pnk -->
