@@ -16,6 +16,8 @@ Hi, I'm Dave, a frontend developer & crypto player.
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sailor95&layout=compact" alt="sailor95_stats" /> -->
+
 ## Music I Listen To While I Drift
 
 | Music |                          |
