@@ -1,6 +1,6 @@
 Hi, I'm Dave, a frontend developer & crypto enthusiast.  
 
-Club member of [Alpha Shark 🦈](https://twitter.com/alphasharkclub?s=20&t=RNqdwOp7AwzdfyrMrGuNDA) & [Murmur Cats 🐈](https://opensea.io/collection/murmurcats).  
+Club member of [TCDAO](https://twitter.com/TradersClub_DAO) 🦉, [Alpha Shark 🦈](https://twitter.com/alphasharkclub?s=20&t=RNqdwOp7AwzdfyrMrGuNDA) & [Murmur Cats 🐈](https://opensea.io/collection/murmurcats).  
 Former president of [Neihu English Salon](https://www.facebook.com/neihutmc?mibextid=LQQJ4d).  
 
 [My website](https://dave-huang.com/)  
@@ -16,9 +16,11 @@ Former president of [Neihu English Salon](https://www.facebook.com/neihutmc?mibe
 
 ### Currently Learning
 
-![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp;
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
+- [Ethers.js](https://docs.ethers.org/v5/)
+- [Telegram Bot](https://core.telegram.org/bots/api) (on top of [grammY](https://grammy.dev/))
+<!-- ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp; -->
+<!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp; -->
+<!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
 
 <br>
 
