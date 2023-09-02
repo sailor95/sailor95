@@ -9,15 +9,18 @@ Former president of [Neihu English Salon](https://www.facebook.com/neihutmc?mibe
 
 <!-- Badge source: https://dev.to/envoy_/150-badges-for-github-pnk -->
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+- FE: ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)&nbsp;
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
+- Web3: [Ethers.js](https://docs.ethers.org/v5/)
+- Others: [Telegram Bot](https://core.telegram.org/bots/api) (on top of [grammY](https://grammy.dev/))
+
 ### Currently Learning
 
-- [Ethers.js](https://docs.ethers.org/v5/)
-- [Telegram Bot](https://core.telegram.org/bots/api) (on top of [grammY](https://grammy.dev/))
+- Express.js
+
 <!-- ![Web3.js](https://img.shields.io/badge/Web3.js-F16822?logo=web3dotjs&logoColor=fff&style=for-the-badge)&nbsp; -->
 <!-- ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)&nbsp; -->
 <!-- ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp; -->
