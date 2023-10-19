@@ -1,7 +1,9 @@
 Hi, I'm Dave, a frontend developer & crypto enthusiast.  
+Currently grinding on the indie hacker path.
 
 Club member of [TCDAO](https://twitter.com/TradersClub_DAO) 🦉, [Alpha Shark 🦈](https://twitter.com/alphasharkclub?s=20&t=RNqdwOp7AwzdfyrMrGuNDA) & [Murmur Cats 🐈](https://opensea.io/collection/murmurcats).  
 Former president of [Neihu English Salon](https://www.facebook.com/neihutmc?mibextid=LQQJ4d).  
+Coffee addict. (MaraX + DF83)  
 
 [My website](https://dave-huang.com/)  
 
