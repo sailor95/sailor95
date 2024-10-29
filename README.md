@@ -17,8 +17,8 @@ Coffee addict. (MaraX + DF83)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
 - BE: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-- Web3: [Ethers.js](https://docs.ethers.org/v5/) ![Eth](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
-- Others: [Telegram Bot](https://core.telegram.org/bots/api) (on top of [grammY](https://grammy.dev/)) ![TG](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- Web3: [Ethers.js](https://docs.ethers.org/v5/) 
+- Others: [Telegram Bot](https://core.telegram.org/bots/api) (on top of [grammY](https://grammy.dev/))
 
 ### Currently Learning
 
