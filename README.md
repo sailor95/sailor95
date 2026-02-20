@@ -54,7 +54,9 @@ Always happy to chat about:
 
 <br>
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sailor95&layout=compact&theme=graywhite)](https://github.com/sailor95/github-readme-stats)
+-->
 
 <!--
 ## Music I Listen To While I Drift
