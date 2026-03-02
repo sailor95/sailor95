@@ -5,7 +5,8 @@ When I'm not coding, you'll find me dialing in espresso shots on my Mara X + DF8
 
 ## 🚀 What I'm Building
 
-**[Peak Pals](https://peakpals.io)** - A journaling social app that helps people reflect, connect, and grow together.
+- **[Peak Pals](https://peakpals.io)** - A journaling social app that helps people reflect, connect, and grow together.  
+- **[WIP] Ghost auto repurpose bot** - Blog to social media hook automation workflow via Discord.
 
 ## 📝 Writing & Sharing
 
@@ -42,8 +43,10 @@ I document my learnings and perspectives on solo entrepreneurship at **[davehuan
 
 ### Currently Reading
 
-<img src="https://i.ebayimg.com/images/g/qz4AAeSwxWNo34F-/s-l960.webp" alt="Unscripted" width="200">
-<img src="https://i.ebayimg.com/images/g/ou0AAeSw3oFosZG7/s-l1600.webp" alt="100M" width="200">
+![51m+kYTstpL](https://github.com/user-attachments/assets/7b6af586-7061-4e02-bf0c-991126786ee2)
+
+[The Staff Engineer's Path](https://www.amazon.com/-/zh_TW/Staff-Engineers-Path-Individual-Contributors/dp/B0CV33HPBM)
+
 
 ## 💬 Let's Connect
 
