@@ -10,7 +10,7 @@ When I'm not coding, you'll find me dialing in espresso shots on my Mara X + DF8
 
 ## 📝 Writing & Sharing
 
-I document my learnings and perspectives on solo entrepreneurship at **[davehuang.io](https://davehuang.io/)**. Topics include product development, indie hacking, and the realities of building solo.
+I document my learnings and thinking process at **[davehuang.io](https://davehuang.io/)**. Topics include product development, indie hacking, and philosophy.
 
 ## Toolkit
 
